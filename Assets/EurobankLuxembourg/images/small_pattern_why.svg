@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b9a37d;
+        fill-opacity: 0.3;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="small_pattern_why.png_small_pattern_why.svg" data-name="small_pattern_why.png, small_pattern_why.svg" class="cls-1" d="M252,282.752l-9.413-8.98V305h-0.522V294.066L231.622,305H230.9l10.791-11.3H198.939L188.148,305h-0.723l11.29-11.822h20.759l-20.887-19.927V252.574L178.7,273.4H167v-0.522h11.473l19.789-20.721H167v-0.523h10.971L167,241.169v-0.723l11.3,10.783V220h0.522v8.953L187.375,220H188.1l-8.948,9.369H221.9L230.85,220h0.723l-9.447,9.892H199.441l20.924,19.961v22.66L240.3,251.635H252v0.523H240.527l-19.789,20.721H252V273.4h-9.045L252,282.03v0.722Zm-53.413-52.86H178.824v21.743h19.763V229.892ZM219.842,273.4V250.077L199.11,230.3v42.73l20.732,19.78V273.4Zm22.223,0h-21.7v19.777h21.7V273.4Zm0-53.4h0.522v11.45L252,240.43v0.722l-9.935-9.478V220Zm-63.241,85H178.3V293.551L167,282.769v-0.722l11.824,11.281V305Z" transform="translate(-167 -220)"/>
+</svg>
